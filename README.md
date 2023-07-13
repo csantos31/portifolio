@@ -9,7 +9,7 @@
 
 I've been a developer since 2017, I have my GitHub with a few projects but with this portfolio, I can show a little of my identity. 
 
-As you can notice, I am not a designer, but I used FIGMA to create a template for this project, the link for Figma template can be found [here](https://www.figma.com/file/95sbqPe2t1avhMr8xfS3oy/my.portifolio?type=design&node-id=35%3A19&mode=design&t=49E6ErsiQrOPpbDz-1)
+As you can notice, I am not a designer, but I used FIGMA to create a template for this project, the link for Figma template can be found [here](https://www.figma.com/file/95sbqPe2t1avhMr8xfS3oy/my.portifolio?type=design&node-id=0%3A1&mode=design&t=3PxUROn6fi9OE60c-1)
 
 Also, I decided to create this using no framework, so it can be simpler, and lighter. 
 
