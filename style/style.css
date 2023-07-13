@@ -18,7 +18,7 @@ body {
   height: auto;
 }
 
-.icons-menu{
+.icons-menu {
   display: none;
 }
 
@@ -371,7 +371,7 @@ footer {
     width: 100%;
   }
 
-  .show-menu{
+  .show-menu {
     position: fixed;
     background: #10101a;
     height: 60px;
@@ -486,5 +486,13 @@ footer {
 
   .title-contact span {
     font-size: 24px;
+  }
+
+  .timeline .container {
+    padding: 10px 50px;
+    position: relative;
+    width: 100%;
+    animation: none;
+    opacity: 1;
   }
 }
