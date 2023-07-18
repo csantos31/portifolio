@@ -470,6 +470,7 @@ footer {
   .left-container img,
   .right-container img {
     left: 10px;
+    z-index: 9;
   }
 
   .left-container-arrow,
